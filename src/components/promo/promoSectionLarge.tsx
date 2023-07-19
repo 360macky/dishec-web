@@ -30,7 +30,7 @@ export default function TestimonialsFade({
           <div className="container">
             <div className="row justify-content-center">
               <div className="col-lg-8 col-sm-9 text-center mx-auto">
-                <h1 className="text-white mb-4">{title}</h1>
+                <h1 className="text-white mb-4 mt-6">{title}</h1>
                 <p className="lead text-white mb-sm-6 mb-4">{full_description}</p>
                 {/* <button className="btn btn-white btn-lg">Show new arrivals</button> */}
               </div>
